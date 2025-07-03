@@ -1,0 +1,9 @@
+# Ignore node_modules
+client/node_modules/
+server/node_modules/
+
+# Ignore environment variables
+server/.env
+
+# Ignore build output (if you build React)
+client/build/
